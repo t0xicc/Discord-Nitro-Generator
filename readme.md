@@ -4,7 +4,7 @@
   ```
   >> git clone https://github.com/t0xicc/Discord-Nitro-Generator.git
   >> pip install -r requirements.txt
-  >> or go /dis and just run "Nitro Generator.exe" (If you use Windows)
+  >> or just run "Nitro Generator.exe" (If you use Windows)
   ```
 
 ##
