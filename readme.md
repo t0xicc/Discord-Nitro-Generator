@@ -3,8 +3,11 @@
 - #### 💻 Downloading
   ```
   >> git clone https://github.com/t0xicc/Discord-Nitro-Generator.git
-  >> pip install -r requirements.txt
-  >> or just run "Nitro Generator.exe" (If you use Windows)
+  >> If you want use only with python script:
+      pip install -r requirements.txt
+      python nitro_generator.py
+  >> or If you use Windows
+      just run "Nitro Generator.exe"
   ```
 
 ##
